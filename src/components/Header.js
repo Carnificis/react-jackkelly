@@ -2,9 +2,9 @@ import React from "react";
 
 function Header() {
     return (
-      <Alert key={primary} className="header" variant={primary}>
+      <div className="header">
        <h1>Jack Kelly</h1>
-      </Alert>
+      </div>
     );
 }
 
